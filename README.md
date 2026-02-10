@@ -13,3 +13,6 @@ This project introduces JavaScript for the first time.
 - README.md – Project explanation
 
 This is the first step toward making webpages interactive.
+
+##view live website
+-https://noorfatimab.github.io/lesson-7-javascript-basics-/ 
